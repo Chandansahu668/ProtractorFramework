@@ -1,0 +1,46 @@
+{
+  "uid" : "265030b5265bb5af",
+  "name" : "Adding the Deposite Ammount",
+  "fullName" : "Test WayToAutomation Banking App.Adding the Deposite Ammount",
+  "historyId" : "5a1290aa7dd0fea2b74585c55f3bca60",
+  "time" : {
+    "start" : 1577988680413,
+    "stop" : 1577988688627,
+    "duration" : 8214
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test WayToAutomation Banking App"
+  }, {
+    "name" : "testClass",
+    "value" : "Test WayToAutomation Banking App"
+  }, {
+    "name" : "testMethod",
+    "value" : "Adding the Deposite Ammount"
+  }, {
+    "name" : "package",
+    "value" : "Test WayToAutomation Banking App"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "265030b5265bb5af.json",
+  "parameterValues" : [ ]
+}

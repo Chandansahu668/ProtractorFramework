@@ -1,0 +1,21 @@
+[ {
+  "uid" : "d082cc757c3d6175",
+  "name" : "Adding the Deposite Ammount",
+  "time" : {
+    "start" : 1577988422776,
+    "stop" : 1577988424128,
+    "duration" : 1352
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cd7c8fc326212a60",
+  "name" : "Navigating to customer page",
+  "time" : {
+    "start" : 1577988415260,
+    "stop" : 1577988422775,
+    "duration" : 7515
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

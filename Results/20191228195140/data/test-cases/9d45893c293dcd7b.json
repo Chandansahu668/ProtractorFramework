@@ -1,0 +1,46 @@
+{
+  "uid" : "9d45893c293dcd7b",
+  "name" : "Navigating to customer page",
+  "fullName" : "Test WayToAutomation Banking App.Navigating to customer page",
+  "historyId" : "2dc357459318ceb35c543a7bb89f98c7",
+  "time" : {
+    "start" : 1577542877231,
+    "stop" : 1577542896283,
+    "duration" : 19052
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Test WayToAutomation Banking App"
+  }, {
+    "name" : "testClass",
+    "value" : "Test WayToAutomation Banking App"
+  }, {
+    "name" : "testMethod",
+    "value" : "Navigating to customer page"
+  }, {
+    "name" : "package",
+    "value" : "Test WayToAutomation Banking App"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9d45893c293dcd7b.json",
+  "parameterValues" : [ ]
+}

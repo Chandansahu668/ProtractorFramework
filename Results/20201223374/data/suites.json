@@ -1,0 +1,35 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Test WayToAutomation Banking App",
+    "children" : [ {
+      "name" : "Navigating to customer page",
+      "uid" : "cd7c8fc326212a60",
+      "parentUid" : "7d9e48622c5be7660f155b08ae63338e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1577988415260,
+        "stop" : 1577988422775,
+        "duration" : 7515
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Adding the Deposite Ammount",
+      "uid" : "d082cc757c3d6175",
+      "parentUid" : "7d9e48622c5be7660f155b08ae63338e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1577988422776,
+        "stop" : 1577988424128,
+        "duration" : 1352
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "7d9e48622c5be7660f155b08ae63338e"
+  } ]
+}
